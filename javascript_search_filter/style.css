@@ -5,13 +5,15 @@
 }
 
 body {
-    background-color: #000;
+    background: linear-gradient(to left top, #ea2c62, #52057b) no-repeat!important;
+    height: 800px;
+    margin: 0px;
 }
 
 .container {
     max-width: 700px;
     margin: 0 auto;
-    padding: 100px 10px 0 10px;
+    padding: 20px;
 }
 
 #search {
